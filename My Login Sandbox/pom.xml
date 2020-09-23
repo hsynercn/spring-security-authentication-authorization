@@ -91,7 +91,6 @@
                             <targetPath>WEB-INF</targetPath>
                         </resource>
                     </webResources>
-                    <failOnMissingWebXml>false</failOnMissingWebXml>
                 </configuration>
             </plugin>
             <plugin>
