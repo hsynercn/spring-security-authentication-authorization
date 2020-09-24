@@ -19,6 +19,6 @@ public class DemoApplication {
 class Helloworld {
     @GetMapping("/")
     public String greet() {
-        return "Hello!";
+        return "Gökçebayır köyü satılık arsa ve zeytinlikler tel:0506£$%682-";
     }
 }
